@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.c43e7dda.js",
+    "static/js/787.dd8df4af.chunk.js": "/static/js/787.dd8df4af.chunk.js",
+    "static/media/nes.png": "/static/media/nes.90c050f897244401ac7a.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.c43e7dda.js.map": "/static/js/main.c43e7dda.js.map",
+    "787.dd8df4af.chunk.js.map": "/static/js/787.dd8df4af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c43e7dda.js"
+  ]
+}
